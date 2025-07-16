@@ -558,6 +558,10 @@ nav.scrolled {
     box-shadow: 0 10px 30px rgba(255, 107, 53, 0.5);
 }
 
+.contact-content {
+    text-align: center;
+}
+
 .contact-info {
     display: flex;
     justify-content: center;
